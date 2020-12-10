@@ -3,6 +3,7 @@ def my_func():
 
 
 def main():
+    print("gh")
     my_func()
 
 
