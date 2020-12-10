@@ -3,6 +3,7 @@ def my_func():
 
 
 def main():
+    print('print1')
     my_func()
 
 
